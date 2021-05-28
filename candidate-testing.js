@@ -13,8 +13,9 @@ let correctAnswers =  ;
 let candidateAnswers ;
 
 
-function askForName(candidateName)
-console.log(askforName + candidateName;) {
+function askForName()
+let candidateName = "What Is Your Name?"
+console.log(candidateName); {
   // TODO 1.1b: Ask for candidate's name //
 
 }
